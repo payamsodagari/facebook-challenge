@@ -1,0 +1,97 @@
+body {
+    font-size: 13px;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #737578;
+    line-height: 1.30;
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    background-color: #3B5998;
+    color: #FFFFFF;
+    height: 65px;
+}
+
+#main {
+    background-color: #e1e5f0;
+}
+
+.color-blue {
+    color: #425F9C;
+}
+
+#sign-up {
+    background-color: #68A64C;
+    color: white;
+    border: 1px solid black;
+    font-weight: 700;
+    margin-left: 30px;
+    width: 90px;
+    height: 30px;
+}
+#logo-facebook-header{
+    display: inline-block;
+    margin-left: 300px;
+}
+
+#head-form {
+    display: inline-block;
+    width: 500px;
+    margin-left: 300px;
+}
+
+#head-form button{
+    color: white;
+    background-color: #617AAC;
+    border: 1px solid black;
+}
+
+.form-up {
+    display: inline-block;
+    padding-top: 20px;
+}
+
+#form-right {
+    padding-left: 24px;
+}
+.form-radius {
+    border-radius: 5px;
+}
+
+#left-side {
+    display: inline-block;
+    padding-left: 260px;
+    padding-bottom: 100px;
+    vertical-align: top;
+}
+
+#right-side {
+    width: 20%;
+    display: inline-block;
+}
+
+#footer {
+    background-color: #ffffff;
+    padding-left: 180px;
+    padding-right: 180px;
+}
+
+#footer ul{
+    text-align: center;
+} 
+#footer li {
+    display: inline;
+}
+
+#footer-copy {
+    margin-left: 327px;
+    width: 200px;
+    position: absolute;
+}
+
+#footer-down {
+    padding-left: 500px;
+    width: 450px;
+}
